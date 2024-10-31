@@ -4,4 +4,4 @@
 
 ### [10월 4째주, 1주차] : html, css, js 
 
-24.10.31 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
+24.10.31 세부 주제 1 작성 ([상세 내역 링크](https://github.com/gihwanJang/dante-til/blob/main/Oct/2024-10-31.md))
